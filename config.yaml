@@ -11,7 +11,7 @@ params:
     bg_img: images/header-bg.jpg
     has_nav: true
     has_social: true
-    logo_img: images/logo.png
+    logo_img: ''
     tagline: Exploring the world and ideas
     title: Ken H
   palette: yellow
