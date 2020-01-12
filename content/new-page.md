@@ -3,7 +3,7 @@ title: New Page
 subtitle: Where new ideas go to grow
 menu:
   main:
-    name: Iqboq
+    name: ''
     weight: 4
 layout: page
 ---
