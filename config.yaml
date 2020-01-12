@@ -13,7 +13,7 @@ params:
     has_social: true
     logo_img: images/logo.png
     tagline: Exploring the world and ideas
-    title: ''
+    title: Ken H
   palette: yellow
 disableKinds:
   - RSS
