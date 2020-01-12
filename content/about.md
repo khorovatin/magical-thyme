@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: About me and my work
 img_path: images/about.jpg
 menu:
   main:
@@ -8,13 +8,12 @@ menu:
     weight: 2
 layout: page
 ---
+**Ken Horovatin** is a Senior QA Analyst from [Calgary](https://en.wikipedia.org/wiki/Calgary), Alberta, Canada. Laregly self-taught in the art and science of software testing, he strives to stay current with all aspects of his chosen field.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+He enjoys being involved in data analysis, whether for software quality, or just for the discovery of new and interesting patterns or trends.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+As a hobby, Ken creates websites for friends and family. He lives in Calgary with his talented wife, and between them they have produced two boys who are excelling in their own lives, attending the Universities of Saskatchewan and British Columbia.
 
 *Thank You for reading!*
