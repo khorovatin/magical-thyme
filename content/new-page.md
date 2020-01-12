@@ -3,7 +3,7 @@ title: New Page
 subtitle: Where new ideas go to grow
 menu:
   main:
-    name: ''
+    name: New Page
     weight: 4
 layout: page
 ---
